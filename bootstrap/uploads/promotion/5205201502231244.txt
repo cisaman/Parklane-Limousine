@@ -1,0 +1,4 @@
+"{\"errorCode\":\"105\",\"message\":\"Successfully fetch user detail associated to this user name\",\"user\":{\"uuid\":1,\"userName\":\"admin\",\"password\":\"admin\",\"fullName\":\"CIS\",\"phoneNumber\":\"1234577890\",\"address\":\"INdore\"}}"
+
+
+E:\apache-tomcat-7.0.53-windows-x64\apache-tomcat-7.0.53

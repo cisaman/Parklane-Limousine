@@ -1,0 +1,127 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13 Nov, 2014, 7:24:36 PM
+    Author     : cis
+*/
+
+a{text-decoration: none !important;}
+.required span{color: #f80000;}
+.errorMessage{color: #f80000;}
+label{font-weight: normal !important;}
+
+.alert{
+    text-align: center;
+}
+
+.page-title h1 { 
+    margin: 0px !important;
+}
+
+input[type=file]{
+    height: auto;
+}
+
+span.required{
+    color: red !important;   
+}
+
+.sort-link {
+    color: #fff !important;
+}
+
+.page-title {
+    margin: 0 0 15px !important;
+}
+
+#page-wrapper {
+    padding: 15px !important;
+}
+
+.text-red {
+    color: red !important;
+}
+
+.welcome span {
+    color: #fff;
+    font-weight: bold;
+}
+
+.text-gold{
+    color: gold !important;
+}
+
+input[type="radio"], input[type="checkbox"] {    
+    margin: -4px 0 0 !important;
+}
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td { 
+    padding: 4px !important;
+    vertical-align: middle;
+}
+
+.nav.navbar-nav.side-nav.sidemenu {
+    margin-top: 243px !important;
+}
+
+hr{
+    margin-bottom: 10px !important;
+    margin-top: 10px !important;
+}
+
+textarea, textArea {
+    resize: none !important;
+}
+
+.dz-remove {
+    color: red !important;
+}
+
+.dropzone .dz-preview.dz-image-preview:hover .dz-details img,
+.dropzone-previews .dz-preview.dz-image-preview:hover .dz-details img {  
+    opacity: 1 !important;  
+}
+
+.dropzone .dz-preview, .dropzone-previews .dz-preview{
+    margin: 8px !important;
+}
+
+.form-control{
+    padding: 6px !important;
+}
+
+.page-content {
+    opacity: 1.0 !important; 
+}
+
+.table th a {
+    color: #fff !important;
+    display: block;
+}
+
+#side .active a {
+    background: none repeat scroll 0 0 #16a085 !important;
+}
+table.table thead .sort-link {
+    background: url("../img/datatables/sort_both.png") no-repeat scroll right center rgba(0, 0, 0, 0)!important;    
+}
+table.table thead .asc {
+    background: url("../img/datatables/sort_asc.png") no-repeat scroll right center rgba(0, 0, 0, 0)!important;
+    color: rgb(44,62,80) !important;
+}
+table.table thead .desc {
+    background: url("../img/datatables/sort_desc.png") no-repeat scroll right center rgba(0, 0, 0, 0)!important;
+    color: rgb(44,62,80) !important;
+}
+
+.nav.in a{background: none repeat scroll 0 0 #16a085 !important;}
+
+.panel .nav.in a{background: none repeat scroll 0 0 rgb(255,255,255) !important;}
+.circle-tile-heading > img {height: 45px;margin-left: 2px;margin-top: 13px;}
+.text-bold {font-weight: bold;}
+.sampleScroll {overflow-x: scroll;}
+.sampleScroll table {width: 1800px;}
+.selectAll {-moz-appearance: treeitem;height: 20px !important;line-height: 20px !important;margin: 0 auto !important;width: 20px !important;}
